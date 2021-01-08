@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "868730385772",
+    "firebase_url": "https://makewayforambulance-7ad64-default-rtdb.firebaseio.com",
+    "project_id": "makewayforambulance-7ad64",
+    "storage_bucket": "makewayforambulance-7ad64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868730385772:android:39e2259c966cbcfbaeef49",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868730385772-o2cf2rnnuskjtqiqokdfpcc7bej20r7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW9-9-cBQvRY4e05YkpE8fkDFr9cncKlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868730385772-o2cf2rnnuskjtqiqokdfpcc7bej20r7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
